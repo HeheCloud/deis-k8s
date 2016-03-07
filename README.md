@@ -6,10 +6,9 @@ Please add any [issues](https://github.com/HeheCloud/deis-k8s/issues) you find w
 
 ## Usage
 
-Build && Push
-
 ```
-wating
+$ deisctl install k8s
+$ deisctl start k8s
 ```
 
 ## Additional Resources
